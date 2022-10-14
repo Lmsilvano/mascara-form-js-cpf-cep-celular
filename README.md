@@ -1,5 +1,5 @@
 # Sobre
-Função para manipualçao de dados digitados no input de formulário, mascarás para CPF, Celular e CEP.
+Função para manipualçao de dados digitados no input de formulário, máscaras para CPF, Celular e CEP.
 
 
 # Exemplo de uso:
